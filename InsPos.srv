@@ -1,0 +1,7 @@
+int32 command
+float64 distance
+float64 LinVel
+float64 angle
+float64 AngVel
+---
+bool Done
