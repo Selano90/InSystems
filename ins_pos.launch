@@ -1,0 +1,4 @@
+<launch>
+<node pkg="ins_positioning" type="i_positioning" name="i_positioning" output="screen"  >
+  </node>
+</launch>
